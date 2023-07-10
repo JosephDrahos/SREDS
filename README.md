@@ -5,6 +5,8 @@
 
 Official Repository for Skin Reflectance Estimate Based on Dichromatic Separation (SREDS).
 
+![Teaser image](./image9.png)
+
 paper: https://arxiv.org/abs/2110.04067
 paper: [https://ieeexplore.ieee.org/abstract/document/9641980/]
 
