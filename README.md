@@ -1,16 +1,34 @@
-![Teaser image](./Clogo.png)
-![Teaser image](./CITeR-logo.png)
+![Teaser image](readme_images/Clogo.png)
+![Teaser image](readme_images//CITeR-logo.png)
 
 # Skin Reflectance Estimate Based on Dichromatic Separation (SREDS)
 
 Official Repository for Skin Reflectance Estimate Based on Dichromatic Separation (SREDS).
 
-![Teaser image](./image9.png)
+![Teaser image](readme_images//image9.png)
 
 
-paper: https://arxiv.org/abs/2110.04067
+paper: https://arxiv.org/abs/2104.02926
 
-paper: [https://ieeexplore.ieee.org/abstract/document/9641980/]
+newest paper:
+
+# Installation
+
+```
+  git clone /https://github.com/JosephDrahos/SREDS
+  conda env create -f sreds.yml
+  conda activate sreds
+  pip install -r requirements.txt
+```
+
+# Usage
+
+To generate SREDS across a sample dataset (sample_images), run 
+```
+generateSREDS.ipynb
+```
+
+This script will landmark each image in the sample_image directory and generate the SREDS score for each sample image and save the values in a pandas dataframe. 
 
 
 [![Open In Colab]()
