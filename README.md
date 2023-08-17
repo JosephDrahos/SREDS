@@ -16,6 +16,7 @@ newest paper:
 
 ```
   git clone /https://github.com/JosephDrahos/SREDS
+  cd SREDS/requirements/
   conda env create -f sreds.yml
   conda activate sreds
   pip install -r requirements.txt
