@@ -31,7 +31,7 @@ generateSREDS.ipynb
 
 This script will landmark each image in the sample_image directory and generate the SREDS score for each sample image and save the values in a pandas dataframe. 
 
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/JosephDrahos/SREDS/blob/main/generateSREDS_Colab.ipynb)
 [![Open In Colab]()]
 
 ### Acknowledgements
