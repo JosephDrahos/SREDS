@@ -10,7 +10,7 @@ Official Repository for Skin Reflectance Estimate Based on Dichromatic Separatio
 
 paper: https://arxiv.org/abs/2104.02926
 
-newest paper:
+most recent paper: https://arxiv.org/pdf/2309.01235
 
 # Installation
 
